@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blelloch Fest (wip)
+title: Blelloch Fest (WIP)
 ---
 
 # Workshop on Large-Scale Graph Processing (SPAA 2022)

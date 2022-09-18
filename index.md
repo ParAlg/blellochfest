@@ -26,8 +26,8 @@ cost-models, and algorithms.
   * <b>11:00--11:30</b> --- Talk 4
   * <b>11:30--12:00</b> --- Talk 5
 
-* Lunch at Cafe Carnegie (Carnegie Museum of Natural History)
-  * <b>12:00--2:00</b> --- Lunch (short walk from GHC)
+* Lunch
+  * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie (Carnegie Museum of Natural History)
 
 * Afternoon Session
   * <b>2:00--2:30</b> --- Talk 6

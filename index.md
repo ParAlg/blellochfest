@@ -21,7 +21,7 @@ cost-models, and algorithms.
   * <b>9:30--10:00</b> --- Talk 2
   * <b>10:00--10:30</b> --- Talk 3
 
-  * <b>10:30--11:00</b> --- <b>Coffee Break</b>
+  * <b>10:30--11:00</b> --- Coffee Break
 
   * <b>11:00--11:30</b> --- Talk 4
   * <b>11:30--12:00</b> --- Talk 5
@@ -34,7 +34,7 @@ cost-models, and algorithms.
   * <b>2:30--3:00</b> --- Talk 7
   * <b>3:00--3:30</b> --- Talk 8
   
-  * <b>3:30--4:00</b> --- <b>Coffee Break</b>
+  * <b>3:30--4:00</b> --- Coffee Break
 
   * <b>4:00--4:30</b> --- Talk 9
   * <b>4:30--5:00</b> --- Talk 10

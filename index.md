@@ -44,7 +44,23 @@ cost-models, and algorithms.
 * <b>7:00</b> -- Dinner at TBA
 
 ### Titles and Abstracts
-TBA
+
+
+<b>Title:Parallelizing Sequential Iterative Algorithms using Parallel Data Structures</b> <em>([Yihan Sun][yihans])</em>
+
+<b> Abstract:</b>
+Designing parallel algorithms in general is hard, and therefore many simple problems in the sequential setting become more complicated in parallel. 
+Some recent research (including many of Guy's papers!) reveals an interesting observation: many sequential iterative algorithms are inherently "parallel" when the dependences among iterations are carefully analyzed. Such algorithms are usually practical and easy to understand, due to their simplicity and connections to sequential algorithms. 
+
+This talk will review some recent advances in parallelizing sequential iterative algorithms. In particular, for some problems, we will show how parallel data structures can be used to greatly simplify the algorithm, and enable efficient work and low span. 
+
+
+
+<b>Title:Highlights from 35 Papers with Guy</b> <em>([Phil Gibbons][phil])</em>
+
+<b> Abstract:</b>
+Guy and I have co-authored 35 conference and journal publications, spanning 27 years. This talk will highlight this body of joint work: the good, the bad, and the ugly. 
+
 
 ### Organizing Committee
 * Umut Acar
@@ -62,6 +78,8 @@ TBA
 [spaa]: https://spaa.acm.org/
 [laxman]: https://ldhulipala.github.io/
 [yan]: https://www.cs.ucr.edu/~ygu/
+[yihans]: https://www.cs.ucr.edu/~yihans/ 
+[phil]: http://www.cs.cmu.edu/~gibbons/
 [kuba]: https://research.google/people/105517/
 [lars]: https://scholar.google.de/citations?user=G5XO7J4AAAAJ&hl=en
 [brian]: https://brianwheatman.com/

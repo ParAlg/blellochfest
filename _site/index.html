@@ -85,6 +85,10 @@ I will talk about privacy-preserving algorithms in the binary fork-join model, w
 In this paper, we initiate the study of parallel data oblivious algorithms on realistic multicores, best captured by the binary fork-join model of computation. We first show that data-oblivious sorting can be accomplished by a binary fork-join algorithm with optimal total work and optimal (cache-oblivious) cache complexity, and in O(log n log log n) span (i.e., parallel time) that matches the best-known insecure algorithm. Using our sorting algorithm as a core primitive, we show how to data-obliviously simulate general PRAM algorithms in the binary fork-join model with non-trivial efficiency. We also present results for several applications including list ranking, Euler tour, tree contraction, connected components, and minimum spanning forest. For a subset of these applications, our data-oblivious algorithms asymptotically outperform the best known insecure algorithms. For other applications, we show data oblivious algorithms whose performance bounds match the best known insecure algorithms. 
 Complementing these asymptotically efficient results, we present a practical variant of our sorting algorithm that is self-contained and potentially implementable. It has optimal caching cost, and it is only a log log n factor off from optimal work and about a log n factor off in terms of span; moreover, it achieves small constant factors in its bounds.</p>
 
+<p><b>Title:Verification of Cost in Dependent Type Theory</b> <em>(<a href="http://www.cs.cmu.edu/~rwh/">Bob Harper</a>)</em></p>
+
+<p>Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.</p>
+
 <h3 id="organizing-committee">Organizing Committee</h3>
 <ul>
   <li>Umut Acar</li>

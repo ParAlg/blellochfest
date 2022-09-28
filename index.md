@@ -72,6 +72,12 @@ In this paper, we initiate the study of parallel data oblivious algorithms on re
 Complementing these asymptotically efficient results, we present a practical variant of our sorting algorithm that is self-contained and potentially implementable. It has optimal caching cost, and it is only a log log n factor off from optimal work and about a log n factor off in terms of span; moreover, it achieves small constant factors in its bounds.
 
 
+<b>Title:Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
+
+Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.
+
+
+
 ### Organizing Committee
 * Umut Acar
 * Naama Ben-David
@@ -91,6 +97,7 @@ Complementing these asymptotically efficient results, we present a practical var
 [yihans]: https://www.cs.ucr.edu/~yihans/ 
 [phil]: http://www.cs.cmu.edu/~gibbons/
 [elaine]: http://elaineshi.com/
+[bob]: http://www.cs.cmu.edu/~rwh/
 [kuba]: https://research.google/people/105517/
 [lars]: https://scholar.google.de/citations?user=G5XO7J4AAAAJ&hl=en
 [brian]: https://brianwheatman.com/

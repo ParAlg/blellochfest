@@ -17,9 +17,9 @@ cost-models, and algorithms.
 * Morning Session
   * <b>8:30--9:00</b> --- Breakfast at GHC
 
-  * <b>9:00--9:30</b> --- Data-Oblivious Algorithms for Multicores (Elaine Shi)
+  * <b>9:00--9:30</b> --- Highlights from 35 Papers with Guy (Phil Gibbons)
   * <b>9:30--10:00</b> --- Parallelizing Sequential Iterative Algorithms using Parallel Data Structures (Yihan Sun)
-  * <b>10:00--10:30</b> --- Highlights from 35 Papers with Guy (Phil Gibbons)
+  * <b>10:00--10:30</b> --- Data-Oblivious Algorithms for Multicores (Elaine Shi)
 
   * <b>10:30--11:00</b> --- Coffee Break
 
@@ -46,6 +46,12 @@ cost-models, and algorithms.
 ### Titles and Abstracts
 
 
+<b>Title:Highlights from 35 Papers with Guy</b> <em>([Phil Gibbons][phil])</em>
+
+<b> Abstract:</b>
+Guy and I have co-authored 35 conference and journal publications, spanning 27 years. This talk will highlight this body of joint work: the good, the bad, and the ugly. 
+
+
 <b>Title:Parallelizing Sequential Iterative Algorithms using Parallel Data Structures</b> <em>([Yihan Sun][yihans])</em>
 
 <b> Abstract:</b>
@@ -56,10 +62,14 @@ This talk will review some recent advances in parallelizing sequential iterative
 
 
 
-<b>Title:Highlights from 35 Papers with Guy</b> <em>([Phil Gibbons][phil])</em>
+<b>Title:Data-Oblivious Algorithms for Multicores</b> <em>([Elaine Shi][elaine])</em>
 
 <b> Abstract:</b>
-Guy and I have co-authored 35 conference and journal publications, spanning 27 years. This talk will highlight this body of joint work: the good, the bad, and the ugly. 
+I will talk about privacy-preserving algorithms in the binary fork-join model, which is the de facto model of computation for modern multi-core processors proposed by Guy Blelloch and others. I will also discuss applications of these techniques to privacy-preserving algorithms in other models such as Massively Parallel Computation. The full abstract is below, this is joint work with Vijaya Ramachandran.
+
+As secure processors such as Intel SGX (with hyperthreading) become widely adopted, there is a growing appetite for private analytics on big data. Most prior works on data-oblivious algorithms adopt the classical PRAM model to capture parallelism. However, it is widely understood that PRAM does not best capture realistic multicore processors, nor does it reflect parallel programming models adopted in practice. 
+In this paper, we initiate the study of parallel data oblivious algorithms on realistic multicores, best captured by the binary fork-join model of computation. We first show that data-oblivious sorting can be accomplished by a binary fork-join algorithm with optimal total work and optimal (cache-oblivious) cache complexity, and in O(log n log log n) span (i.e., parallel time) that matches the best-known insecure algorithm. Using our sorting algorithm as a core primitive, we show how to data-obliviously simulate general PRAM algorithms in the binary fork-join model with non-trivial efficiency. We also present results for several applications including list ranking, Euler tour, tree contraction, connected components, and minimum spanning forest. For a subset of these applications, our data-oblivious algorithms asymptotically outperform the best known insecure algorithms. For other applications, we show data oblivious algorithms whose performance bounds match the best known insecure algorithms. 
+Complementing these asymptotically efficient results, we present a practical variant of our sorting algorithm that is self-contained and potentially implementable. It has optimal caching cost, and it is only a log log n factor off from optimal work and about a log n factor off in terms of span; moreover, it achieves small constant factors in its bounds.
 
 
 ### Organizing Committee

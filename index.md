@@ -46,13 +46,13 @@ cost-models, and algorithms.
 ### Titles and Abstracts
 
 
-<b>Title:Highlights from 35 Papers with Guy</b> <em>([Phil Gibbons][phil])</em>
+<b>Title: Highlights from 35 Papers with Guy</b> <em>([Phil Gibbons][phil])</em>
 
 <b> Abstract:</b>
 Guy and I have co-authored 35 conference and journal publications, spanning 27 years. This talk will highlight this body of joint work: the good, the bad, and the ugly. 
 
 
-<b>Title:Parallelizing Sequential Iterative Algorithms using Parallel Data Structures</b> <em>([Yihan Sun][yihans])</em>
+<b>Title: Parallelizing Sequential Iterative Algorithms using Parallel Data Structures</b> <em>([Yihan Sun][yihans])</em>
 
 <b> Abstract:</b>
 Designing parallel algorithms in general is hard, and therefore many simple problems in the sequential setting become more complicated in parallel. 
@@ -62,7 +62,7 @@ This talk will review some recent advances in parallelizing sequential iterative
 
 
 
-<b>Title:Data-Oblivious Algorithms for Multicores</b> <em>([Elaine Shi][elaine])</em>
+<b>Title: Data-Oblivious Algorithms for Multicores</b> <em>([Elaine Shi][elaine])</em>
 
 <b> Abstract:</b>
 I will talk about privacy-preserving algorithms in the binary fork-join model, which is the de facto model of computation for modern multi-core processors proposed by Guy Blelloch and others. I will also discuss applications of these techniques to privacy-preserving algorithms in other models such as Massively Parallel Computation. The full abstract is below, this is joint work with Vijaya Ramachandran.
@@ -72,13 +72,13 @@ In this paper, we initiate the study of parallel data oblivious algorithms on re
 Complementing these asymptotically efficient results, we present a practical variant of our sorting algorithm that is self-contained and potentially implementable. It has optimal caching cost, and it is only a log log n factor off from optimal work and about a log n factor off in terms of span; moreover, it achieves small constant factors in its bounds.
 
 
-<b>Title:Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
+<b>Title: Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
 
 <b> Abstract:</b>
 Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.
 
 
-<b>Title:The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>
+<b>Title: The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>
 
 <b> Abstract:</b>
 The talk will be in two parts. First, I will share some reflections on Guy through anecdotes during my time at CMU. Second, I will present a cute little divisibility problem that I worked on recently. ("Trifle" can be interpreted either as something trivial, or as a dessert.)

@@ -17,28 +17,28 @@ cost-models, and algorithms.
 * Morning Session
   * <b>8:30--9:00</b> --- Breakfast at GHC
 
-  * <b>9:00--9:30</b> --- Talk 1
-  * <b>9:30--10:00</b> --- Talk 2
-  * <b>10:00--10:30</b> --- Talk 3
+  * <b>9:00--9:30</b> --- Data-Oblivious Algorithms for Multicores (Elaine Shi)
+  * <b>9:30--10:00</b> --- Parallelizing Sequential Iterative Algorithms using Parallel Data Structures (Yihan Sun)
+  * <b>10:00--10:30</b> --- Highlights from 35 Papers with Guy (Phil Gibbons)
 
   * <b>10:30--11:00</b> --- Coffee Break
 
-  * <b>11:00--11:30</b> --- Talk 4
-  * <b>11:30--12:00</b> --- Talk 5
+  * <b>11:00--11:30</b> ---  TBD (Naama Ben-David)
+  * <b>11:30--12:00</b> ---  TBD (Short talks?)
 
 * Lunch
   * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie (Carnegie Museum of Natural History)
 
 * Afternoon Session
-  * <b>2:00--2:30</b> --- Talk 6
-  * <b>2:30--3:00</b> --- Talk 7
-  * <b>3:00--3:30</b> --- Talk 8
+  * <b>2:00--2:30</b> --- Verification of Cost in Dependent Type Theory (Bob Harper)
+  * <b>2:30--3:00</b> --- TBD (Lenore and Manuel Blum)
+  * <b>3:00--3:30</b> --- TBD (Julian Shun)
   
   * <b>3:30--4:00</b> --- Coffee Break
 
-  * <b>4:00--4:30</b> --- Talk 9
-  * <b>4:30--5:00</b> --- Talk 10
-  * <b>5:30--5:30</b> --- Talk 11
+  * <b>4:00--4:30</b> --- TBD (Laxman?)
+  * <b>4:30--5:00</b> --- TBD (Yan Gu)
+  * <b>5:30--5:30</b> --- The Yug of Guy, and A Trifle (Siddhartha Chatterjee)
   * <b>5:30--6:00</b> -- Closing Remarks
 
 * <b>7:00</b> -- Dinner at TBA

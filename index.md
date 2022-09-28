@@ -74,7 +74,15 @@ Complementing these asymptotically efficient results, we present a practical var
 
 <b>Title:Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
 
+<b> Abstract:</b>
 Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.
+
+
+<b>Title:The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>
+
+<b> Abstract:</b>
+The talk will be in two parts. First, I will share some reflections on Guy through anecdotes during my time at CMU. Second, I will present a cute little divisibility problem that I worked on recently. ("Trifle" can be interpreted either as something trivial, or as a dessert.)
+
 
 
 
@@ -98,6 +106,7 @@ Dependent type theory is a natural setting for expressing and proving the behavi
 [phil]: http://www.cs.cmu.edu/~gibbons/
 [elaine]: http://elaineshi.com/
 [bob]: http://www.cs.cmu.edu/~rwh/
+[sid]:https://www.cs.utexas.edu/people/faculty-researchers/siddhartha-chatterjee 
 [kuba]: https://research.google/people/105517/
 [lars]: https://scholar.google.de/citations?user=G5XO7J4AAAAJ&hl=en
 [brian]: https://brianwheatman.com/

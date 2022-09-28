@@ -90,6 +90,7 @@ Complementing these asymptotically efficient results, we present a practical var
 [yan]: https://www.cs.ucr.edu/~ygu/
 [yihans]: https://www.cs.ucr.edu/~yihans/ 
 [phil]: http://www.cs.cmu.edu/~gibbons/
+[elaine]: http://elaineshi.com/
 [kuba]: https://research.google/people/105517/
 [lars]: https://scholar.google.de/citations?user=G5XO7J4AAAAJ&hl=en
 [brian]: https://brianwheatman.com/

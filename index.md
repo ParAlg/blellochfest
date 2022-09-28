@@ -14,7 +14,7 @@ cost-models, and algorithms.
 
 ### Schedule and Speaker List
 
-* Morning Session
+* <b>Morning Session</b>
   * <b>8:30--9:00</b> --- Breakfast at GHC
 
   * <b>9:00--9:30</b> --- Highlights from 35 Papers with Guy (Phil Gibbons)
@@ -26,10 +26,10 @@ cost-models, and algorithms.
   * <b>11:00--11:30</b> ---  TBD (Naama Ben-David)
   * <b>11:30--12:00</b> ---  TBD (Short talks?)
 
-* Lunch
+* <b>Lunch</b>
   * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie (Carnegie Museum of Natural History)
 
-* Afternoon Session
+* <b>Afternoon Session</b>
   * <b>2:00--2:30</b> --- Verification of Cost in Dependent Type Theory (Bob Harper)
   * <b>2:30--3:00</b> --- TBD (Lenore and Manuel Blum)
   * <b>3:00--3:30</b> --- TBD (Julian Shun)
@@ -41,7 +41,7 @@ cost-models, and algorithms.
   * <b>5:30--5:30</b> --- The Yug of Guy, and A Trifle (Siddhartha Chatterjee)
   * <b>5:30--6:00</b> -- Closing Remarks
 
-* <b>7:00</b> -- Dinner at TBA
+* <b>7:00</b> -- Dinner at Lucca Ristorante (Craig Street)
 
 ### Titles and Abstracts
 

@@ -24,7 +24,7 @@ cost-models, and algorithms.
   * <b>10:30--11:00</b> --- Coffee Break
 
   * <b>11:00--11:30</b> ---  TBD (Naama Ben-David)
-  * <b>11:30--12:00</b> ---  TBD (Short talks?)
+  * <b>11:30--12:00</b> ---  TBD (Harsha Simhadri)
 
 * <b>Lunch</b>
   * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie (Carnegie Museum of Natural History)
@@ -36,10 +36,11 @@ cost-models, and algorithms.
   
   * <b>3:30--4:00</b> --- Coffee Break
 
-  * <b>4:00--4:30</b> --- TBD (Laxman?)
+  * <b>4:00--4:30</b> --- TBD (Laxman Dhulipala)
   * <b>4:30--5:00</b> --- TBD (Yan Gu)
   * <b>5:30--5:30</b> --- The Yug of Guy, and A Trifle (Siddhartha Chatterjee)
-  * <b>5:30--6:00</b> -- Closing Remarks
+  * <b>5:30--6:00</b> -- TBD (Charles Leiserson)
+  * <b>6:00</b> -- Closing Remarks
 
 * <b>7:00</b> -- Dinner at Lucca Ristorante (Craig Street)
 

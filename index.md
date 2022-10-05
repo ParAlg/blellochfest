@@ -81,6 +81,16 @@ I will talk about privacy-preserving algorithms in the binary fork-join model, w
 
 <b> Abstract:</b>
 Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.
+I'm not aware of previous work that used Spira's algorithm (which is designed
+for a quite different probabilistic model, and for the APSP problem) in a
+parallel setting.
+
+
+<b>ALADDIN, Consciousness and Free Will from a TCS perspective </b>
+<em>([Lenore Blum](lenore) and [Manuel Blum](manuel))</em>
+
+<b>Abstract:</b>
+Lenore will say some words about the NSF ALADDIN Center which she co-directed with Guy. Then Lenore and Manuel will say some words about what they have been working on for the past several years.
 
 
 <b>Parallel Hierarchical Agglomerative Graph Clustering</b> <em>([Laxman Dhulipala][laxman])</em>
@@ -124,3 +134,5 @@ The talk will be in two parts. First, I will share some reflections on Guy throu
 [julian]: https://people.csail.mit.edu/jshun/
 [zoomlink]: https://docs.google.com/document/d/1om-PvjaC49-zOxKRjcUxOGXcDayXjpq6VtrXr8CEoEg
 [form]: https://forms.gle/myvcibc9Bs7wrJPd7
+[lenore]: http://www.cs.cmu.edu/~lblum/
+[manuel]: https://www.cs.cmu.edu/~mblum/

@@ -38,7 +38,7 @@ Parking should be free on Saturday if you park at either:
 
 * <b>Afternoon Session</b>
   * <b>2:00--2:25</b> --- Verification of Cost in Dependent Type Theory (*Bob Harper*)
-  * <b>2:25--2:50</b> --- TBD (*Lenore and Manuel Blum*)
+  * <b>2:25--2:50</b> --- ALADDIN, Consciousness and Free Will from a TCS perspective  (*Lenore Blum and Manuel Blum*)
   * <b>2:50--3:15</b> --- TBD (*Julian Shun*)
   * <b>3:15--3:40</b> --- Parallel Hierarchical Agglomerative Graph Clustering (*Laxman Dhulipala*)
 
@@ -86,7 +86,7 @@ for a quite different probabilistic model, and for the APSP problem) in a
 parallel setting.
 
 
-<b>ALADDIN, Consciousness and Free Will from a TCS perspective </b>
+<b>ALADDIN, Consciousness and Free Will from a TCS perspective</b>
 <em>([Lenore Blum](lenore) and [Manuel Blum](manuel))</em>
 
 <b>Abstract:</b>

@@ -33,7 +33,7 @@ cost-models, and algorithms.
   * <b>2:00--2:25</b> --- Verification of Cost in Dependent Type Theory (*Bob Harper*)
   * <b>2:25--2:50</b> --- TBD (*Lenore and Manuel Blum*)
   * <b>2:50--3:15</b> --- TBD (*Julian Shun*)
-  * <b>3:15--3:40</b> --- TBD (*Laxman Dhulipala*)
+  * <b>3:15--3:40</b> --- Scalable Hierarchical Agglomerative Graph Clustering (*Laxman Dhulipala*)
 
   * <b>3:40--4:15</b> --- Coffee Break
 
@@ -74,6 +74,12 @@ I will talk about privacy-preserving algorithms in the binary fork-join model, w
 
 <b> Abstract:</b>
 Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.
+
+
+<b>Title: Scalable Hierarchical Agglomerative Clustering</b> <em>([Laxman Dhulipala]laxman])</em>
+
+<b> Abstract:</b>
+I will share some recent work on designing practical and scalable algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs.
 
 
 <b>Title: The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>

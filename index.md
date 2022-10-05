@@ -15,7 +15,7 @@ cost-models, and algorithms.
 <b>Information about Attending:</b>
 
 Parking should be free on Saturday if you park at either:
- * [Morewood gardens lot](https://goo.gl/maps/93FuEaoig6UNufwQA) (The entry is right between the Stever / Morewood dorms if you're coming from Fifth ave)
+ * [Morewood gardens lot](https://goo.gl/maps/93FuEaoig6UNufwQA) (The entry is between the Stever and Morewood dorms when coming from Fifth ave)
  * [East campus garage](https://goo.gl/maps/2UoBoBFRVLgiGEVb8) (Along Forbes ave, by the stadium)
 
 

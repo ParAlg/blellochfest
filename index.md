@@ -48,13 +48,13 @@ cost-models, and algorithms.
 ### Titles and Abstracts
 
 
-<b>Title: Highlights from 35 Papers with Guy</b> <em>([Phil Gibbons][phil])</em>
+<b>Highlights from 35 Papers with Guy</b> <em>([Phil Gibbons][phil])</em>
 
 <b> Abstract:</b>
 Guy and I have co-authored 35 conference and journal publications, spanning 27 years. This talk will highlight this body of joint work: the good, the bad, and the ugly.
 
 
-<b>Title: Parallelizing Sequential Iterative Algorithms using Parallel Data Structures</b> <em>([Yihan Sun][yihans])</em>
+<b>Parallelizing Sequential Iterative Algorithms using Parallel Data Structures</b> <em>([Yihan Sun][yihans])</em>
 
 <b> Abstract:</b>
 Designing parallel algorithms in general is hard, and therefore many simple problems in the sequential setting become more complicated in parallel.
@@ -64,25 +64,25 @@ This talk will review some recent advances in parallelizing sequential iterative
 
 
 
-<b>Title: Data-Oblivious Algorithms for Multicores</b> <em>([Elaine Shi][elaine])</em>
+<b>Data-Oblivious Algorithms for Multicores</b> <em>([Elaine Shi][elaine])</em>
 
 <b> Abstract:</b>
 I will talk about privacy-preserving algorithms in the binary fork-join model, which is the de facto model of computation for modern multi-core processors proposed by Guy Blelloch and others. I will also discuss applications of these techniques to privacy-preserving algorithms in other models such as Massively Parallel Computation. (Joint work with Vijaya Ramachandran)
 
 
-<b>Title: Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
+<b>Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
 
 <b> Abstract:</b>
 Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.
 
 
-<b>Title: Scalable Hierarchical Agglomerative Graph Clustering</b> <em>([Laxman Dhulipala][laxman])</em>
+<b>Scalable Hierarchical Agglomerative Graph Clustering</b> <em>([Laxman Dhulipala][laxman])</em>
 
 <b> Abstract:</b>
 I will share some recent work on designing practical and scalable algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs.
 
 
-<b>Title: The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>
+<b>The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>
 
 <b> Abstract:</b>
 The talk will be in two parts. First, I will share some reflections on Guy through anecdotes during my time at CMU. Second, I will present a cute little divisibility problem that I worked on recently. ("Trifle" can be interpreted either as something trivial, or as a dessert.)

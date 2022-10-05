@@ -12,6 +12,13 @@ include talks from Guy's colleagues, friends, and students. The talks
 will revolve around Guy's interests in parallel languages,
 cost-models, and algorithms.
 
+<b>Attending</b>
+
+Parking should be free on Saturdays if you park at either:
+ * [Morewood gardens lot](https://goo.gl/maps/93FuEaoig6UNufwQA) (The entry is right between the Stever / Morewood dorms if you're coming from Fifth ave)
+ * [East campus garage](https://goo.gl/maps/2UoBoBFRVLgiGEVb8) (Along Forbes ave, by the stadium)
+
+
 ### Schedule and Speaker List
 
 * <b>Morning Session</b>

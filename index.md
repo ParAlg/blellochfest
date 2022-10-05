@@ -31,7 +31,7 @@ Parking should be free on Saturday if you park at either:
   * <b>10:15--11:00</b> --- Coffee Break
 
   * <b>11:00--11:25</b> ---  TBD (*Naama Ben-David*)
-  * <b>11:25--11:50</b> ---  TBD (*Harsha Simhadri*)
+  * <b>11:25--11:50</b> ---  Parallel external-memory algorithms : theory to practice (and back to theory again?) (*Harsha Simhadri*)
 
 * <b>Lunch</b>
   * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie

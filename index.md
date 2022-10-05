@@ -76,7 +76,7 @@ I will talk about privacy-preserving algorithms in the binary fork-join model, w
 Dependent type theory is a natural setting for expressing and proving the behavior of programs, chiefly by equational reasoning.  In standard formulations of type theory any two sorting algorithms would be equal, simply because they sort.  But then what would it mean to specify that one sort is more efficient than another?  Recent developments in type theory provide a natural way to reconcile cost and behavior of programs.
 
 
-<b>Title: Scalable Hierarchical Agglomerative Clustering</b> <em>([Laxman Dhulipala]laxman])</em>
+<b>Title: Scalable Hierarchical Agglomerative Clustering</b> <em>([Laxman Dhulipala][laxman])</em>
 
 <b> Abstract:</b>
 I will share some recent work on designing practical and scalable algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs.

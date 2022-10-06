@@ -96,7 +96,7 @@ Lenore will say some words about the NSF ALADDIN Center which she co-directed wi
 <b>Parallel Hierarchical Agglomerative Graph Clustering</b> <em>([Laxman Dhulipala][laxman])</em>
 
 <b> Abstract:</b>
-I will share some recent work on designing practical parallel algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs. Along the way I will talk about some stories from working with Guy about algorithm engineering, work-efficiency, and the value of hard problems.
+I will share some recent work on designing practical parallel algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs. Along the way I will talk about some stories from working with Guy.
 
 
 <b>The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>

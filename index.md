@@ -45,7 +45,7 @@ Parking should be free on Saturday if you park at either:
   * <b>3:40--4:15</b> --- Coffee Break
 
   * <b>4:15--4:40</b> --- TBD (*Umut Acar*)
-  * <b>4:40--5:05</b> --- TBD (*Yan Gu*)
+  * <b>4:40--5:05</b> --- Computational Models for Modern Architecture (*Yan Gu*)
   * <b>5:05--5:35</b> --- The Yug of Guy, and A Trifle (*Siddhartha Chatterjee*)
   * <b>5:35--6:00</b> -- TBD (*Charles Leiserson*)
   * <b>6:00</b> -- Closing Remarks
@@ -103,6 +103,16 @@ Lenore will say some words about the NSF ALADDIN Center which she co-directed wi
 
 <b> Abstract:</b>
 I will share some recent work on designing practical parallel algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs. Along the way I will talk about some stories from working with Guy.
+
+
+<b>Parallel Hierarchical Agglomerative Graph Clustering</b> <em>([Yan Gu][yan])</em>
+
+<b> Abstract:</b>
+Guy has designed many computational models for modern computer architecture that have been widely used.  In this talk, I will talk about my stories when working on these models with Guy, as well as some later work based on them.
+
+
+
+
 
 
 <b>The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>

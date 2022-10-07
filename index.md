@@ -39,7 +39,7 @@ Parking should be free on Saturday if you park at either:
 * <b>Afternoon Session</b>
   * <b>2:00--2:25</b> --- Verification of Cost in Dependent Type Theory (*Bob Harper*)
   * <b>2:25--2:50</b> --- ALADDIN, Consciousness and Free Will from a TCS perspective  (*Lenore Blum and Manuel Blum*)
-  * <b>2:50--3:15</b> --- TBD (*Julian Shun*)
+  * <b>2:50--3:15</b> --- Parallel Batch-Dynamic Graph Algorithms (*Julian Shun*)
   * <b>3:15--3:40</b> --- Parallel Hierarchical Agglomerative Graph Clustering (*Laxman Dhulipala*)
 
   * <b>3:40--4:15</b> --- Coffee Break
@@ -91,6 +91,12 @@ parallel setting.
 
 <b>Abstract:</b>
 Lenore will say some words about the NSF ALADDIN Center which she co-directed with Guy. Then Lenore and Manuel will say some words about what they have been working on for the past several years.
+
+
+<b>Parallel Batch-Dynamic Graph Algorithms</b>
+<em>([Julian Shun][julian])</em>
+
+<b>Abstract:</b> As many real-world graphs change rapidly, it is crucial to design dynamic algorithms that efficiently maintain graph statistics upon updates, since the cost of re-computation from scratch can be prohibitive. Furthermore, due to the high frequency of updates, we can improve performance by using parallelism to process batches of updates at a time. We will present some of our research on designing parallel batch-dynamic graph algorithms to address these needs. Our research is inspired by Guy’s pioneering work on formalizing the batch-dynamic setting and designing efficient algorithms in it.
 
 
 <b>Parallel Hierarchical Agglomerative Graph Clustering</b> <em>([Laxman Dhulipala][laxman])</em>

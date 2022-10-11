@@ -48,7 +48,7 @@ Parking should be free on Saturday if you park at either:
   * <b>4:40--5:05</b> --- Computational Models for Modern Architecture (*Yan Gu*)
   * <b>5:05--5:35</b> --- The Yug of Guy, and A Trifle (*Siddhartha Chatterjee*)
   * <b>5:35--6:00</b> -- TBD (*Charles Leiserson*)
-  * <b>6:00</b> -- Closing Remarks
+  * <b>6:00</b> -- Closing Remarks (*Guy Blelloch*)
 
 * <b>7:00</b> -- Dinner at Lucca Ristorante
 

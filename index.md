@@ -30,7 +30,7 @@ Parking should be free on Saturday if you park at either:
 
   * <b>10:15--11:00</b> --- Coffee Break
 
-  * <b>11:00--11:25</b> ---  TBD (*Naama Ben-David*)
+  * <b>11:00--11:25</b> ---  Fast and Fair Lock-Free Locks (*Naama Ben-David*)
   * <b>11:25--11:50</b> ---  Parallel external-memory algorithms : theory to practice (and back to theory again?) (*Harsha Simhadri*)
 
 * <b>Lunch</b>
@@ -75,6 +75,12 @@ This talk will review some recent advances in parallelizing sequential iterative
 
 <b> Abstract:</b>
 I will talk about privacy-preserving algorithms in the binary fork-join model, which is the de facto model of computation for modern multi-core processors proposed by Guy Blelloch and others. I will also discuss applications of these techniques to privacy-preserving algorithms in other models such as Massively Parallel Computation. (Joint work with Vijaya Ramachandran)
+
+
+<b>Title: Fast and Fair Lock-Free Locks</b> <em>([Naama Ben-David][naama])</em>
+
+<b>Abstract:</b>
+Locks are frequently used in concurrent systems to simplify code and ensure safe access to contended parts of memory. However, they are also known to cause bottlenecks in concurrent code, leading practitioners and theoreticians to sometimes opt for more intricate lock-free implementations. In this talk, I’ll give an overview of joint work with Guy which shows that, despite the seeming contradiction, it is possible to design practically and theoretically efficient lock-free locks. I’ll discuss how we model and reason about concurrent systems theoretically, and present a lock-free lock algorithm with good bounds on running time and fairness.
 
 
 <b>Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
@@ -139,6 +145,7 @@ The talk will be in two parts. First, I will share some reflections on Guy throu
 [spaa]: https://spaa.acm.org/
 [laxman]: https://ldhulipala.github.io/
 [yan]: https://www.cs.ucr.edu/~ygu/
+[naama]: https://sites.google.com/corp/view/naama-ben-david/home
 [yihans]: https://www.cs.ucr.edu/~yihans/
 [phil]: http://www.cs.cmu.edu/~gibbons/
 [elaine]: http://elaineshi.com/

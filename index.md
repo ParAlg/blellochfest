@@ -31,33 +31,35 @@ Wi-Fi info can be found [here](/blellochfest/wifi).
 * <b>Morning Session</b>
   * <b>8:30--9:00</b> --- Breakfast at GHC
 
-  * <b>9:00--9:25</b> --- Highlights from 35 Papers with Guy (*Phil Gibbons*)
-  * <b>9:25--9:50</b> --- Parallelizing Sequential Iterative Algorithms using Parallel Data Structures (*Yihan Sun*)
-  * <b>9:50--10:15</b> --- Data-Oblivious Algorithms for Multicores (*Elaine Shi*)
+  * <b>9:00--9:20</b> --- Highlights from 35 Papers with Guy (*Phil Gibbons*)
+  * <b>9:20--9:40</b> --- Parallelizing Sequential Iterative Algorithms using Parallel Data Structures (*Yihan Sun*)
+  * <b>9:40--10:00</b> --- Data-Oblivious Algorithms for Multicores (*Elaine Shi*)
 
-  * <b>10:15--11:00</b> --- Coffee Break
+  * <b>10:00--10:40</b> --- Coffee Break
 
-  * <b>11:00--11:25</b> ---  Fast and Fair Lock-Free Locks (*Naama Ben-David*)
-  * <b>11:25--11:50</b> ---  Parallel external-memory algorithms: theory to practice (and back to theory again?) (*Harsha Simhadri*)
+  * <b>10:40--11:00</b> ---  Fast and Fair Lock-Free Locks (*Naama Ben-David*)
+  * <b>11:00--11:20</b> --- Parallel Hierarchical Agglomerative Graph Clustering (*Laxman Dhulipala*)
+  * <b>11:20--11:40</b> ---  Parallel external-memory algorithms: theory to practice (and back to theory again?) (*Harsha Simhadri*)
 
 * <b>Lunch</b>
   * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie
+  * <b>2:00--3:00</b> --- Walk in Schenley Park
 
 * <b>Afternoon Session</b>
-  * <b>2:00--2:25</b> --- Verification of Cost in Dependent Type Theory (*Bob Harper*)
-  * <b>2:25--2:50</b> --- ALADDIN, Consciousness and Free Will from a TCS perspective  (*Lenore Blum and Manuel Blum*)
-  * <b>2:50--3:15</b> --- Parallel Batch-Dynamic Graph Algorithms (*Julian Shun*)
-  * <b>3:15--3:40</b> --- Parallel Hierarchical Agglomerative Graph Clustering (*Laxman Dhulipala*)
+  * <b>3:00--3:20</b> --- Verification of Cost in Dependent Type Theory (*Bob Harper*)
+  * <b>3:20--3:40</b> --- ALADDIN, Consciousness and Free Will from a TCS perspective  (*Lenore Blum and Manuel Blum*)
+  * <b>3:40--4:00</b> --- Parallel Batch-Dynamic Graph Algorithms (*Julian Shun*)
 
-  * <b>3:40--4:15</b> --- Coffee Break
+  * <b>4:00--4:40</b> --- Coffee Break
 
-  * <b>4:15--4:40</b> --- The Unbearable Effectiveness of Parallel Functional Programming from NESL to MaPLe (*Umut Acar*)
-  * <b>4:40--5:05</b> --- Computational Models for Modern Architecture (*Yan Gu*)
-  * <b>5:05--5:35</b> --- The Yug of Guy, and A Trifle (*Siddhartha Chatterjee*)
-  * <b>5:35--6:00</b> -- TBD (*Charles Leiserson*)
-  * <b>6:00</b> -- Closing Remarks (*Guy Blelloch*)
+  * <b>4:40--5:00</b> --- The Unbearable Effectiveness of Parallel Functional Programming from NESL to MaPLe (*Umut Acar*)
+  * <b>5:00--5:20</b> --- Computational Models for Modern Architecture (*Yan Gu*)
+  * <b>5:20--5:40</b> --- The Yug of Guy, and A Trifle (*Siddhartha Chatterjee*)
+  * <b>5:40--6:00</b> -- TBD (*Charles Leiserson*)
+  * <b>6:00--6:20</b> -- (*Guy Blelloch*)
 
 * <b>7:00</b> -- Dinner at Lucca Ristorante
+
 
 ### Titles and Abstracts
 

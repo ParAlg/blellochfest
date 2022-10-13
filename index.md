@@ -14,6 +14,8 @@ cost-models, and algorithms.
 
 <b>Information about Attending:</b>
 
+The event will be taking place in <b>GHC 6115</b>. The doors to the building and upper-floor elevators will be open on this day.
+
 Parking should be free on Saturday if you park at either:
  * [Morewood Gardens Lot](https://goo.gl/maps/93FuEaoig6UNufwQA) (The entry is between the Stever and Morewood dorms when coming from Fifth ave).
  * [East Campus Garage](https://goo.gl/maps/2UoBoBFRVLgiGEVb8) (Along Forbes ave, by the stadium)

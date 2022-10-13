@@ -111,7 +111,7 @@ Lenore will say some words about the NSF ALADDIN Center which she co-directed wi
 I will share some recent work on designing practical parallel algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs. Along the way I will talk about some stories from working with Guy.
 
 
-<b>Parallel Hierarchical Agglomerative Graph Clustering</b> <em>([Yan Gu][yan])</em>
+<b>Computational Models for Modern Architecture</b> <em>([Yan Gu][yan])</em>
 
 <b> Abstract:</b>
 Guy has designed many computational models for modern computer architecture that have been widely used.  In this talk, I will talk about my stories when working on these models with Guy, as well as some later work based on them.

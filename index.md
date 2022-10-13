@@ -142,9 +142,7 @@ The talk will be in two parts. First, I will share some reflections on Guy throu
 * Julian Shun
 * Virginia Williams
 
-<b>Virtual Participation:</b> We will stream and record the event on zoom (meeting info TBA).
-
-
+<b>Virtual Participation:</b> We will stream and record the event on zoom here: [https://mit.zoom.us/j/97916094809](https://mit.zoom.us/j/97916094809).
 
 [acmharass]: https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment
 [spaa]: https://spaa.acm.org/

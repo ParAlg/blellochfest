@@ -15,8 +15,10 @@ cost-models, and algorithms.
 <b>Information about Attending:</b>
 
 Parking should be free on Saturday if you park at either:
- * [Morewood gardens lot](https://goo.gl/maps/93FuEaoig6UNufwQA) (The entry is between the Stever and Morewood dorms when coming from Fifth ave)
- * [East campus garage](https://goo.gl/maps/2UoBoBFRVLgiGEVb8) (Along Forbes ave, by the stadium)
+ * [Morewood Gardens Lot](https://goo.gl/maps/93FuEaoig6UNufwQA) (The entry is between the Stever and Morewood dorms when coming from Fifth ave).
+ * [East Campus Garage](https://goo.gl/maps/2UoBoBFRVLgiGEVb8) (Along Forbes ave, by the stadium)
+
+You can also see annotated maps of how to get from the [Morewood Gardens Lot to GHC](/blellochfest/docs/MorewoodToGHC.pdf) and from the [East Campus Garage to GHC](/blellochfest/docs/EastCampusToGHC.pdf)
 
 Wi-Fi info can be found [here](/blellochfest/wifi).
 

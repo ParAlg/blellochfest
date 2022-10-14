@@ -52,7 +52,7 @@ Wi-Fi info can be found [here](/blellochfest/wifi).
 
   * <b>4:00--4:40</b> --- Coffee Break
 
-  * <b>4:40--5:00</b> --- The Unbearable Effectiveness of Parallel Functional Programming from NESL to MaPLe (*Umut Acar*)
+  * <b>4:40--5:00</b> --- The Unbearable Lightness of Parallel Functional Programming from NESL to MPL (*Umut Acar*)
   * <b>5:00--5:20</b> --- Computational Models for Modern Architecture (*Yan Gu*)
   * <b>5:20--5:40</b> --- The Yug of Guy, and A Trifle (*Siddhartha Chatterjee*)
   * <b>5:40--6:00</b> -- TBD (*Charles Leiserson*)
@@ -120,9 +120,9 @@ Lenore will say some words about the NSF ALADDIN Center which she co-directed wi
 I will share some recent work on designing practical parallel algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs. Along the way I will talk about some stories from working with Guy.
 
 
-<b>The Unbearable Effectiveness of Parallel Functional Programming from NESL to MaPLe</b> <em>([Umut Acar](umut))</em>
+<b>The Unbearable Lightness of Parallel Functional Programming from NESL to MPL</b> <em>([Umut Acar](umut))</em>
 
-<b>Abstract:</b> In early 1990's Guy Blelloch developed NESL, a parallel functional programming language.  NESL is a strongly typed, purely functional language that supported nested parallelism, the ability to invoke parallel functions recursively, had a cost model, and an efficient implementation.  After the "winter" of 1990's and early 2000's, parallelism is ever more important today and for the foreseeable future and NESL will forever be remembered as a fundamental advance that has illuminated the way forward.  In this talk, I present the MaPLe compiler that allows writing functional parallel programs by extending the Standard ML language with nested parallelism.  Unlike NESL, MaPLe is not pure and supports side effects, which appears to be important for efficiency and performance, but it otherwise follows the path illuminated by NESL: it is functional, it is strongly typed, it supports nested parallelism, it has a cost model, and an implementation that is bounded by it. (Joint work with Guy Blelloch, Jatin Arora, Matthew Fluet, Stefan Muller, Ram Raghunathan, and Sam Westrick.)
+<b>Abstract: </b> In early 1990's Guy Blelloch and his students developed NESL, a parallel functional programming language.  NESL is a strongly typed, purely functional language that supported nested parallelism, the ability to invoke parallel functions recursively, had a cost model, and an efficient implementation.  After the "winter" of 1990's and early 2000's, parallelism is ever more important today and for the foreseeable future and NESL will forever be remembered as a fundamental advance that has illuminated the way forward.  In this talk, I present the MPL (MaPLe) compiler that allows writing functional parallel programs by extending the Standard ML language with nested parallelism.  Unlike NESL, MaPLe is not pure and supports side effects, which appears to be important for efficiency and performance, but it otherwise follows the path illuminated by NESL: it is functional, it is strongly typed, it supports nested parallelism, it has a cost model, and an implementation that is bounded by it. (Joint work with Guy Blelloch, Jatin Arora, Matthew Fluet, Stefan Muller, Ram Raghunathan, Sam Westrick, and Rohan Yadav.)
 
 
 <b>Computational Models for Modern Architecture</b> <em>([Yan Gu][yan])</em>

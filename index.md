@@ -39,7 +39,7 @@ Wi-Fi info can be found [here](/blellochfest/wifi).
 
   * <b>10:40--11:00</b> ---  Fast and Fair Lock-Free Locks (*Naama Ben-David*)
   * <b>11:00--11:20</b> --- Parallel Hierarchical Agglomerative Graph Clustering (*Laxman Dhulipala*)
-  * <b>11:20--11:40</b> ---  Parallel External-Memory Algorithms: Theory to Practice (And Back to Theory Again?) (*Harsha Simhadri*)
+  * <b>11:20--11:40</b> ---  Parallel External-Memory Algorithms: Theory to Practice (*Harsha Simhadri*)
 
 * <b>Lunch</b>
   * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie
@@ -92,6 +92,18 @@ I will talk about privacy-preserving algorithms in the binary fork-join model, w
 Locks are frequently used in concurrent systems to simplify code and ensure safe access to contended parts of memory. However, they are also known to cause bottlenecks in concurrent code, leading practitioners and theoreticians to sometimes opt for more intricate lock-free implementations. In this talk, I’ll give an overview of joint work with Guy which shows that, despite the seeming contradiction, it is possible to design practically and theoretically efficient lock-free locks. I’ll discuss how we model and reason about concurrent systems theoretically, and present a lock-free lock algorithm with good bounds on running time and fairness.
 
 
+<b>Parallel Hierarchical Agglomerative Graph Clustering</b> <em>([Laxman Dhulipala][laxman])</em>
+
+<b> Abstract:</b>
+I will share some recent work on designing practical parallel algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs. Along the way I will talk about some stories from working with Guy.
+
+
+<b>Parallel External-Memory Algorithms: Theory to Practice</b> <em>([Harsha Simhadri](harsha))</em>
+
+<b> Abstract:</b>
+I will present some results from my work with Guy and Phil on designing and analyzing IO-efficient algorithms for parallel machines in the fork-join model and extensions thereof. I will then talk about how this work inspired some recent empirical results on designing IO-efficient algorithms for "large scale ML systems" including ANNS indices. I will highlight some key ideas that seem to work exceptionally well in practice for ANNS indices, but with no theoretical analysis yet.
+
+
 <b>Verification of Cost in Dependent Type Theory</b> <em>([Bob Harper][bob])</em>
 
 <b> Abstract:</b>
@@ -112,12 +124,6 @@ Lenore will say some words about the NSF ALADDIN Center which she co-directed wi
 <em>([Julian Shun][julian])</em>
 
 <b>Abstract:</b> As many real-world graphs change rapidly, it is crucial to design dynamic algorithms that efficiently maintain graph statistics upon updates, since the cost of re-computation from scratch can be prohibitive. Furthermore, due to the high frequency of updates, we can improve performance by using parallelism to process batches of updates at a time. We will present some of our research on designing parallel batch-dynamic graph algorithms to address these needs. Our research is inspired by Guy’s pioneering work on formalizing the batch-dynamic setting and designing efficient algorithms in it.
-
-
-<b>Parallel Hierarchical Agglomerative Graph Clustering</b> <em>([Laxman Dhulipala][laxman])</em>
-
-<b> Abstract:</b>
-I will share some recent work on designing practical parallel algorithms for hierarchical agglomerative graph clustering. Although the problem is P-complete, we give a near-linear work RNC algorithm for a natural approximate version of the problem that can quickly process massive graphs. Along the way I will talk about some stories from working with Guy.
 
 
 <b>The Unbearable Lightness of Parallel Functional Programming from NESL to MPL</b> <em>([Umut Acar](umut))</em>
@@ -174,3 +180,4 @@ Every experienced educator knows the trick: If you're not prepared to teach a le
 [manuel]: https://www.cs.cmu.edu/~mblum/
 [umut]: https://www.umut-acar.org/
 [cel]: https://people.csail.mit.edu/cel/index.html
+[harsha]: https://harsha-simhadri.org/

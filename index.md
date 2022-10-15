@@ -39,7 +39,7 @@ Wi-Fi info can be found [here](/blellochfest/wifi).
 
   * <b>10:40--11:00</b> ---  Fast and Fair Lock-Free Locks (*Naama Ben-David*)
   * <b>11:00--11:20</b> --- Parallel Hierarchical Agglomerative Graph Clustering (*Laxman Dhulipala*)
-  * <b>11:20--11:40</b> ---  Parallel external-memory algorithms: theory to practice (and back to theory again?) (*Harsha Simhadri*)
+  * <b>11:20--11:40</b> ---  Parallel External-Memory Algorithms: Theory to Practice (And Back to Theory Again?) (*Harsha Simhadri*)
 
 * <b>Lunch</b>
   * <b>12:00--2:00</b> --- Lunch at Cafe Carnegie
@@ -55,7 +55,7 @@ Wi-Fi info can be found [here](/blellochfest/wifi).
   * <b>4:40--5:00</b> --- The Unbearable Lightness of Parallel Functional Programming from NESL to MPL (*Umut Acar*)
   * <b>5:00--5:20</b> --- Computational Models for Modern Architecture (*Yan Gu*)
   * <b>5:20--5:40</b> --- The Yug of Guy, and A Trifle (*Siddhartha Chatterjee*)
-  * <b>5:40--6:00</b> -- TBD (*Charles Leiserson*)
+  * <b>5:40--6:00</b> -- Blelloch 101 — In-class Quiz (*Charles Leiserson*)
   * <b>6:00--6:20</b> -- (*Guy Blelloch*)
 
 * <b>7:00</b> -- Dinner at Lucca Ristorante
@@ -131,14 +131,16 @@ I will share some recent work on designing practical parallel algorithms for hie
 Guy has designed many computational models for modern computer architecture that have been widely used.  In this talk, I will talk about my stories when working on these models with Guy, as well as some later work based on them.
 
 
-
-
-
-
 <b>The Yug of Guy, and A Trifle</b> <em>([Siddhartha Chatterjee][sid])</em>
 
 <b> Abstract:</b>
 The talk will be in two parts. First, I will share some reflections on Guy through anecdotes during my time at CMU. Second, I will present a cute little divisibility problem that I worked on recently. ("Trifle" can be interpreted either as something trivial, or as a dessert.)
+
+
+<b>Blelloch 101 — In-class quiz</b> <em>([Charles E. Leiserson][cel])</em>
+
+<b>Abstract:</b>
+Every experienced educator knows the trick: If you're not prepared to teach a lesson, give the class a test.
 
 
 
@@ -171,3 +173,4 @@ The talk will be in two parts. First, I will share some reflections on Guy throu
 [lenore]: http://www.cs.cmu.edu/~lblum/
 [manuel]: https://www.cs.cmu.edu/~mblum/
 [umut]: https://www.umut-acar.org/
+[cel]: https://people.csail.mit.edu/cel/index.html

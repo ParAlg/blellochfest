@@ -137,7 +137,7 @@ Guy has designed many computational models for modern computer architecture that
 The talk will be in two parts. First, I will share some reflections on Guy through anecdotes during my time at CMU. Second, I will present a cute little divisibility problem that I worked on recently. ("Trifle" can be interpreted either as something trivial, or as a dessert.)
 
 
-<b>Blelloch 101 — In-class quiz</b> <em>([Charles E. Leiserson][cel])</em>
+<b>Blelloch 101 — In-class quiz</b> <em>([Charles E. Leiserson, CMU Ph.D 1981][cel])</em>
 
 <b>Abstract:</b>
 Every experienced educator knows the trick: If you're not prepared to teach a lesson, give the class a test.

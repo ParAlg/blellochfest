@@ -24,7 +24,9 @@ You can also see these annotated maps of how to get from the [Morewood Gardens L
 
 Wi-Fi info can be found [here](/blellochfest/wifi).
 
-<b>Virtual Participation:</b> We will stream and record the event on zoom here: [https://mit.zoom.us/j/97916094809](https://mit.zoom.us/j/97916094809).
+<b>Virtual Participation:</b> We will stream and record the event on zoom here: [https://umd.zoom.us/my/laxman?pwd=eTdMaHZ2amppazAzalRvSE9uWUFSUT09
+](https://umd.zoom.us/my/laxman?pwd=eTdMaHZ2amppazAzalRvSE9uWUFSUT09
+).
 
 ### Schedule and Speaker List
 
